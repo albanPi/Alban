@@ -1,5 +1,5 @@
 - Hi, I’m @UR4NVS
-- I work in Data Science with Python/R/SQL 
+- I love doing things with Python/R on data
 - I’m currently learning C++ and Scala
 - I have an interest for cybersecurity and privacy concerns
 - You can reach me on Twitter : twitter.com/@UR4NVS_
