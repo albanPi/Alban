@@ -1,2 +1,3 @@
-- Hi, I’m @UR4NVS
+- Hi, I’m Alban
 - I love doing things with Python/R
+- I'm interested in machine learning and everything related to data
